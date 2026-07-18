@@ -33,7 +33,7 @@
             "header": [],
             "body": {
               "mode": "raw",
-              "raw": "{\r\n    \"name\":\"Shivansh\",\r\n    \"email\": \"user@gmail.com\",\r\n    \"password\": \"pass123\"\r\n}",
+              "raw": "{\r\n    \"name\":\"Charan\",\r\n    \"email\": \"user@gmail.com\",\r\n    \"password\": \"pass123\"\r\n}",
               "options": {
                 "raw": {
                   "language": "json"
