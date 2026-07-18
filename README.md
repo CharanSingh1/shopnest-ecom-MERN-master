@@ -2,6 +2,7 @@
  # 🛒 Full-Stack MERN E-Commerce App
 
 A modern and fully responsive Full-Stack E-Commerce Web Application built using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). This project provides a complete online shopping experience with secure user authentication, product browsing, cart management, order placement, payment integration, and an admin dashboard for managing products, users, and orders.
+</div>
 
  🚀 Features
 
